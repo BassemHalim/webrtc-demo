@@ -1,7 +1,8 @@
 ## WebRTC video Streaming and Position Estimation
-__By: Bassem Halim__
 
 This project demonstrates a simple implementation of a WebRTC-based video streaming and position estimation system using a server and client application.
+
+![demo](bouncing-ball.gif)
 
 ## Overview
 
